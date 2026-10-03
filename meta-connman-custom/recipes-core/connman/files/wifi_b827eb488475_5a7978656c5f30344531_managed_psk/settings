@@ -1,0 +1,12 @@
+[wifi_b827eb488475_5a7978656c5f30344531_managed_psk]
+Name=Zyxel_04E1
+SSID=5a7978656c5f30344531
+Frequency=2412
+Favorite=true
+AutoConnect=true
+Modified=2026-01-24T18:12:24Z
+Passphrase=UKXBN47E4Q
+IPv4.method=dhcp
+IPv4.DHCP.LastAddress=192.168.1.93
+IPv6.method=auto
+IPv6.privacy=disabled
